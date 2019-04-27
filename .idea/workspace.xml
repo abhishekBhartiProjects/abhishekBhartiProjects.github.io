@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee55557e-d41c-4ca2-8902-710070aa73d3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,38 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/about/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-817">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -74,12 +48,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/urls.py" />
-        <option value="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/urls.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/about/models.py" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" />
       </list>
     </option>
   </component>
@@ -99,6 +74,23 @@
             <path>
               <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +142,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.23030303" />
+      <window_info anchor="bottom" id="Terminal" weight="0.23030303" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -166,13 +158,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -196,25 +181,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-817">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -223,10 +201,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/about/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/about/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
