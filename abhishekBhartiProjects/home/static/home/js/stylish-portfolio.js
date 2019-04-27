@@ -62,3 +62,7 @@ var onMapClickHandler = function(event) {
 }
 // Enable map zooming with mouse scroll when the user clicks the map
 $('.map').on('click', onMapClickHandler);
+$('.hover-shadow').hover(
+       function(){ $(this).addClass('shadow p-3') },
+       function(){ $(this).removeClass('shadow p-3') }
+)

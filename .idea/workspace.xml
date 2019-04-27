@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee55557e-d41c-4ca2-8902-710070aa73d3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/about/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="360">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="99" column="33" lean-forward="true" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylish-portfolio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="64" column="4" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +74,7 @@
       <find>homeModel</find>
       <find>create table</find>
       <find>homemodel</find>
+      <find>h</find>
     </findStrings>
     <replaceStrings>
       <replace>{% static</replace>
@@ -75,11 +94,13 @@
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/about/admin.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/index.html" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/setup.py" />
-        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" />
-        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/settings.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/models.py" />
         <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/admin.py" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css" />
+        <option value="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" />
       </list>
     </option>
   </component>
@@ -115,6 +136,54 @@
               <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -292,20 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/abhishekBhartiProjects/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -345,8 +400,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="360">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="64" column="4" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="99" column="33" lean-forward="true" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
         </state>
       </provider>
     </entry>

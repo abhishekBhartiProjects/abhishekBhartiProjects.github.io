@@ -25,6 +25,7 @@
 
     <!-- Custom CSS -->
     <link href="{% static 'home/css/stylish-portfolio.min.css' %}" rel="stylesheet">
+    <link href="{% static 'home/css/custom_css.css' %}" rel="stylesheet">
 
 </head>
 
@@ -60,11 +61,11 @@
 <!-- Header -->
 <header class="masthead d-flex">
     <div class="container text-center my-auto">
-        <h1 class="mb-1">Stylish Portfolio</h1>
+        <h1 class="mb-1">{{ home.mainText}}</h1>
         <h3 class="mb-5">
-            <em>A Free Bootstrap Theme by Start Bootstrap</em>
+            <em>{{ home.subText}}</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="{{ home.ctaUrl }}" target="_blank">{{ home.ctaText }}</a>
     </div>
     <div class="overlay"></div>
 </header>
@@ -76,11 +77,9 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <h2>ABout Text</h2>
-                <p class="lead mb-5">This theme features a flexible, UX friendly sidebar menu and stock photos from our
-                    friends at
-                    <a href="https://unsplash.com/">Unsplash</a>!</p>
-                <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a>
+                <h2>{{ about.mainText}}</h2>
+                <p class="lead mb-5">{{ about.subText}}</p>
+                <a class="btn btn-dark btn-xl js-scroll-trigger" href="{{ about.ctaUrl }}" target="_blank">{{ about.ctaText }}</a>
             </div>
         </div>
     </div>
@@ -94,44 +93,20 @@
             <h2 class="mb-5">What We Offer</h2>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-screen-smartphone"></i>
-            </span>
-                <h4>
-                    <strong>Responsive</strong>
-                </h4>
-                <p class="text-faded mb-0">Looks great on any screen size!</p>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-pencil"></i>
-            </span>
-                <h4>
-                    <strong>Redesigned</strong>
-                </h4>
-                <p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-like"></i>
-            </span>
-                <h4>
-                    <strong>Favorited</strong>
-                </h4>
-                <p class="text-faded mb-0">Millions of users
-                    <i class="fas fa-heart"></i>
-                    Start Bootstrap!</p>
-            </div>
-            <div class="col-lg-3 col-md-6">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-mustache"></i>
-            </span>
-                <h4>
-                    <strong>Question</strong>
-                </h4>
-                <p class="text-faded mb-0">I mustache you a question...</p>
-            </div>
+            {% for service in services %}
+                <a href="{{ service.link }}" class="col-lg-3 col-md-6 mb-5 mb-lg-0 text-white center hover-shadow">
+                    <div>
+                        <span class="service-icon rounded-circle mx-auto mb-3">
+                            <i class='{{ service.iconUrl }}' style="line-height: inherit;"></i>
+                        </span>
+                        <h4 class="mb-5">
+                            <strong>{{ service.name }}</strong>
+                        </h4>
+                        <p class="text-faded mb-0">{{ service.description }}</p>
+                    </div>
+                </a>
+
+            {% endfor %}
         </div>
     </div>
 </section>
