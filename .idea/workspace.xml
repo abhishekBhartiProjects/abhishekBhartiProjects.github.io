@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee55557e-d41c-4ca2-8902-710070aa73d3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/js/stylish-portfolio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +25,11 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="99" column="33" lean-forward="true" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+            <state relative-caret-position="623">
+              <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +73,7 @@
       <find>create table</find>
       <find>homemodel</find>
       <find>h</find>
+      <find>{{ static</find>
     </findStrings>
     <replaceStrings>
       <replace>{% static</replace>
@@ -160,16 +159,7 @@
               <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -437,8 +427,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="99" column="33" lean-forward="true" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+        <state relative-caret-position="623">
+          <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
