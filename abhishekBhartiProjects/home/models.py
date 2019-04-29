@@ -29,3 +29,12 @@ class Service(models.Model):
 
     def __str__(self):
         return self.name
+
+class Project(models.Model):
+    imageUrl = models.CharField(max_length=1000)
+    name = models.CharField(max_length=500)
+    description = models.CharField(max_length=2000)
+    link = models.CharField(max_length=1000)
+
+    def __str__(self):
+        return self.name
