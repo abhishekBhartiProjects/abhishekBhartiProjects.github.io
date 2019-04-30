@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee55557e-d41c-4ca2-8902-710070aa73d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/custom_css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/stylish-portfolio.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/img/bg-masthead.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/css/bg-masthead.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/static/home/scss/_masthead.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/abhishekBhartiProjects/home/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,18 +18,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-              <folding>
-                <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +44,7 @@
       <find>bg-masthead.jpg</find>
       <find>bg-masthead_1.jpg</find>
       <find>bg-masthead_1</find>
+      <find>scroll-to</find>
     </findStrings>
     <replaceStrings>
       <replace>{% static</replace>
@@ -122,66 +101,6 @@
               <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abhishekBhartiProjects.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abhishekBhartiProjects.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="abhishekBhartiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -455,10 +374,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/abhishekBhartiProjects/home/templates/home/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        <state relative-caret-position="303">
+          <caret line="120" column="20" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
           <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
