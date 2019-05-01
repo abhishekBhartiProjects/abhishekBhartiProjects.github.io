@@ -31,6 +31,7 @@ class Service(models.Model):
         return self.name
 
 class Project(models.Model):
+    parentServiceId = models.ForeignKey(Service, null=True, on_delete=models.SET_NULL)
     imageUrl = models.CharField(max_length=1000)
     name = models.CharField(max_length=500)
     description = models.CharField(max_length=2000)
