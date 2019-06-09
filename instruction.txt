@@ -1,0 +1,21 @@
+How to goto google cloud console:
+
+> goto VM instance of your Project (on console.cloud.google.com)
+> click on SSH correspond to the instance which you want to connect.
+> cd /home/Linux
+> ls
+>.... there you go.... You are in terminal of google cloud. Do whatever you want to do.
+
+
+How to run server:
+
+> go to the directory where you find manage.py
+> sudo python3 manage.py runserver 0.0.0.0:80
+>.... there you go... server is started... go to the url shown in terminal..
+
+
+How to change any file:
+> sudo nano <filename>
+> do changes and exit(control+x) and save (Y)
+> come out of shell control+c 
+
