@@ -14,8 +14,11 @@ How to run server:
 >.... there you go... server is started... go to the url shown in terminal..
 
 
-How to change any file:
+How to change any file from terminal or ssh(secure shell):
 > sudo nano <filename>
-> do changes and exit(control+x) and save (Y)
-> come out of shell control+c 
+> do changes and exit(control+x). It will ask if you want to save. Press y key. 
+>It will then ask for file name (auto filled), just type enter to come out of nano shell. 
+
+Youtube:
+https://www.youtube.com/watch?v=q2dF3z7VuME&t=931s
 
